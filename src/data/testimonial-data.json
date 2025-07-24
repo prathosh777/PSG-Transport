@@ -1,0 +1,165 @@
+[
+  
+  {
+    "id": 1,
+    "name": "Rajesh Kumar",
+    "role": "Logistics Manager, Reliance Retail",
+    "content": "PSG Transports' LCV services are the perfect solution for our small deliveries. 40% cost savings with 100% reliable service. The best choice for small businesses.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Priya Selvam",
+    "role": "Amazon Seller",
+    "content": "Affordable and reliable LCV services for our small e-commerce business. PSG Transports reduced our delivery costs by 35% while maintaining perfect on-time performance.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Michael Anand",
+    "role": "Operations Head, Flipkart Vendor",
+    "content": "Their compact LCV fleet navigates Chennai's narrow streets perfectly. Same-day deliveries at half the cost of larger trucks. Perfect for last-mile logistics.",
+    "rating": 4,
+    "image": "https://randomuser.me/api/portraits/men/67.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sunita Venkat",
+    "role": "Store Owner, More Retail Chain",
+    "content": "PSG's small trucks restock our neighborhood stores efficiently. Their 'no minimum load' policy helps small retailers like us tremendously.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/women/68.jpg"
+  },
+  {
+    "id": 5,
+    "name": "David Ganesh",
+    "role": "Distributor, Hindustan Unilever",
+    "content": "For distributing products to local kirana stores, PSG's LCVs offer the ideal balance of capacity and affordability. Reduced our distribution costs by 30%.",
+    "rating": 4,
+    "image": "https://randomuser.me/api/portraits/men/23.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ananya Reddy",
+    "role": "Small Business Owner",
+    "content": "As a home-based entrepreneur, PSG's mini trucks make professional logistics affordable. Pay-per-use model helps me manage costs effectively.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/women/51.jpg"
+  },
+  {
+    "id": 7,
+    "name": "James Arjun",
+    "role": "Zomato Delivery Partner",
+    "content": "PSG's compact vehicles help us manage hyperlocal deliveries during peak hours. Fuel-efficient and perfect for urban conditions.",
+    "rating": 4,
+    "image": "https://randomuser.me/api/portraits/men/45.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Meera Krishnan",
+    "role": "Local Farmer",
+    "content": "Their small refrigerated trucks take my produce to markets at half the cost of big carriers. Freshness guaranteed with their temperature control.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/women/72.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Karthik Balaji",
+    "role": "Swiggy Instamart Partner",
+    "content": "For quick commerce deliveries, PSG's LCVs are our backbone. 24/7 availability and perfect for 2-hour delivery promises.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/men/78.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Fatima Nazeer",
+    "role": "JioMart Vendor",
+    "content": "PSG's small trucks handle our neighborhood deliveries perfectly. Affordable rates with daily billing options help cash flow management.",
+    "rating": 4,
+    "image": "https://randomuser.me/api/portraits/women/63.jpg"
+  },
+
+    {
+    "id": 11,
+    "name": "Robert Sundaram",
+    "role": "BigBasket Delivery Coordinator",
+    "content": "PSG's fleet of small trucks handles our daily grocery deliveries perfectly. Their drivers know every lane in Chennai - never miss a delivery window!",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/men/81.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Lingeshwari Devi",
+    "role": "DMart Local Supplier",
+    "content": "Their compact trucks are godsend for small suppliers like us. Pay only for space we use - no empty truck charges like big transporters demand.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/women/33.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Karthik Balaji",
+    "role": "Swiggy Instamart Partner",
+    "content": "For quick commerce deliveries, PSG's LCVs are our backbone. 24/7 availability and perfect for 2-hour delivery promises.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/men/78.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Aisha Banu",
+    "role": "Udaan Wholesale Partner",
+    "content": "For B2B small parcel deliveries to local shops, PSG's LCVs offer unbeatable rates. 50% cheaper than full-size trucks for our daily distributions.",
+    "rating": 4,
+    "image": "https://randomuser.me/api/portraits/women/22.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Vikram Aditya",
+    "role": "Tata Cliq Delivery Manager",
+    "content": "PSG's GPS-enabled mini trucks provide real-time tracking that our customers love. Perfect for premium same-day deliveries in metro areas.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/men/55.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Elena Pandian",
+    "role": "ITC Foods Distributor",
+    "content": "Their refrigerated LCVs maintain perfect temperature for our chocolates and snacks. Small loads mean fresher products reach retailers faster.",
+    "rating": 4,
+    "image": "https://randomuser.me/api/portraits/women/19.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Daniel Mani",
+    "role": "MedPlus Pharmacy Logistics",
+    "content": "PSG's small vehicles deliver medicines to local pharmacies 3x/day. Lifesaving service for urgent medical deliveries at normal rates.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/men/37.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Olivia Gopal",
+    "role": "Licious Cold Chain Partner",
+    "content": "For our daily meat and seafood deliveries, PSG's small chill trucks maintain -18°C perfectly. Never had quality complaints since switching.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/women/85.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Hassan Mohideen",
+    "role": "Reliance Jio Partner",
+    "content": "PSG's compact vehicles install Jio equipment in crowded areas where big trucks can't go. Revolutionized our last-mile installations.",
+    "rating": 4,
+    "image": "https://randomuser.me/api/portraits/men/90.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Sophia Rajan",
+    "role": "Zepto Quick Commerce Partner",
+    "content": "For 10-minute deliveries, PSG's nimble LCVs with multiple compartments are game-changers. 30% more deliveries per day compared to bikes.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/women/91.jpg"
+  }
+
+]
