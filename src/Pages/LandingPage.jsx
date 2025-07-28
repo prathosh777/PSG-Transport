@@ -117,7 +117,7 @@ const LandingPage = () => {
   animate="visible"
   variants={containerVariants}
   className="flex flex-col items-start px-6 relative z-10 text-left w-[95%] h-[95vh] top-5 mx-auto
-             bg-[url('/src/assets/truck-(8).jpg')] bg-cover bg-no-repeat bg-center md:bg-none rounded-lg
+             bg-[url('/src/assets/truck-(8).jpg')] bg-cover bg-no-repeat bg-left md:bg-none rounded-lg
              md:w-[85%] md:h-[calc(100vh-8rem)] md:mx-auto md:flex-row md:justify-start md:items-center md:px-4"
   style={{
     minHeight: 'calc(100vh - 8rem)',

@@ -5,6 +5,8 @@ body {
   /* font-family: 'Panchang', sans-serif; */
   font-family: "Manrope", sans-serif;
   /* background-color: #f5f5f5; */
+  background:r;
+
 }
  @keyframes pulse-ring {
                  0% {
@@ -16,3 +18,4 @@ body {
                    opacity: 0;
                  }
                }
+
