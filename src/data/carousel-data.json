@@ -1,92 +1,92 @@
 [
   {
     "id": 1,
-    "image": "/src/assets/Carousel-images/TruckImage1.jpg",
+    "image": "../assets/Carousel-images/TruckImage1.jpg",
     "alt": "PSG Transport Fleet - Truck 1"
   },
   {
     "id": 2,
-    "image": "/src/assets/Carousel-images/TruckImage2.webp",
+    "image": "../assets/Carousel-images/TruckImage2.webp",
     "alt": "PSG Transport Fleet - Truck 2"
   },
   {
     "id": 3,
-    "image": "/src/assets/Carousel-images/TruckImage3.webp",
+    "image": "../assets/Carousel-images/TruckImage3.webp",
     "alt": "PSG Transport Fleet - Truck 3"
   },
   {
     "id": 4,
-    "image": "/src/assets/Carousel-images/TruckImage4.webp",
+    "image": "../assets/Carousel-images/TruckImage4.webp",
     "alt": "PSG Transport Fleet - Truck 4"
   },
   {
     "id": 5,
-    "image": "/src/assets/Carousel-images/TruckImage5.webp",
+    "image": "../assets/Carousel-images/TruckImage5.webp",
     "alt": "PSG Transport Fleet - Truck 5"
   },
   {
     "id": 6,
-    "image": "/src/assets/Carousel-images/TruckImage6.webp",
+    "image": "../assets/Carousel-images/TruckImage6.webp",
     "alt": "PSG Transport Fleet - Truck 6"
   },
   {
     "id": 7,
-    "image": "/src/assets/Carousel-images/TruckImage7.webp",
+    "image": "../assets/Carousel-images/TruckImage7.webp",
     "alt": "PSG Transport Fleet - Truck 7"
   },
   {
     "id": 8,
-    "image": "/src/assets/Carousel-images/TruckImage8.webp",
+    "image": "../assets/Carousel-images/TruckImage8.webp",
     "alt": "PSG Transport Fleet - Truck 8"
   },
   {
     "id": 9,
-    "image": "/src/assets/Carousel-images/TruckImage9.webp",
+    "image": "../assets/Carousel-images/TruckImage9.webp",
     "alt": "PSG Transport Fleet - Truck 9"
   },
   {
     "id": 10,
-    "image": "/src/assets/Carousel-images/TruckImage10.webp",
+    "image": "../assets/Carousel-images/TruckImage10.webp",
     "alt": "PSG Transport Fleet - Truck 10"
   },
   {
     "id": 11,
-    "image": "/src/assets/Carousel-images/TruckImage11.webp",
+    "image": "../assets/Carousel-images/TruckImage11.webp",
     "alt": "PSG Transport Fleet - Truck 11"
   },
   {
     "id": 12,
-    "image": "/src/assets/Carousel-images/TruckImage12.webp",
+    "image": "../assets/Carousel-images/TruckImage12.webp",
     "alt": "PSG Transport Fleet - Truck 12"
   },
   {
     "id": 13,
-    "image": "/src/assets/Carousel-images/TruckImage13.webp",
+    "image": "../assets/Carousel-images/TruckImage13.webp",
     "alt": "PSG Transport Fleet - Truck 13"
   },
   {
     "id": 14,
-    "image": "/src/assets/Carousel-images/TruckImage14.webp",
+    "image": "../assets/Carousel-images/TruckImage14.webp",
     "alt": "PSG Transport Fleet - Truck 14"
   },
   {
     "id": 15,
-    "image": "/src/assets/Carousel-images/TruckImage15.webp",
+    "image": "../assets/Carousel-images/TruckImage15.webp",
     "alt": "PSG Transport Fleet - Truck 15"
   },
   {
     "id": 16,
-    "image": "/src/assets/Carousel-images/TruckImage16.webp",
+    "image": "../assets/Carousel-images/TruckImage16.webp",
     "alt": "PSG Transport Fleet - Truck 16"
   },
   {
     "id": 17,
-    "image": "/src/assets/Carousel-images/TruckImage17.webp",
+    "image": "../assets/Carousel-images/TruckImage17.webp",
     "alt": "PSG Transport Fleet - Truck 17"
   },
   {
     "id": 18,
-    "image": "/src/assets/Carousel-images/TruckImage18.webp",
+    "image": "../assets/Carousel-images/TruckImage18.webp",
     "alt": "PSG Transport Fleet - Truck 18"
   }
 ]
