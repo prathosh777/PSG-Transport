@@ -1,15 +1,15 @@
 
 import React, { useState, useRef, useEffect } from "react";
-import defaultImage from "../assets/Services-images/8ftTruckImage.webp";
-// import img8ft from "../assets/Services-images/8ftTruckImage.webp";
-import img20ft from "../assets/Services-images/20ftTruckImage.webp";
-import img22ft from "../assets/Services-images/22ftTruckImage.webp";
-import img32ftMxl from "../assets/Services-images/32ftMxlTruckImage.webp";
-import img32ftSxl from "../assets/Services-images/32ftSxlTruckImage.webp";
-import OpenTruckImage17ft from "../assets/Services-images/17ftOpenTruckImage.webp";
-import OpenTruckImage19ft from "../assets/Services-images/19ftOpenTruckImage.webp";
-import OpenTruckImage20ft from "../assets/Services-images/20ftOpenTruckImage.webp";
-import OpenTruckImage22ft from "../assets/Services-images/22ftOpenTruckImage.webp";
+import defaultImage from "../../public/Services-images/8ftTruckImage.webp";
+// import img8ft from "../../public/Services-images/8ftTruckImage.webp";
+import img20ft from "../../public/Services-images/20ftTruckImage.webp";
+import img22ft from "../../public/Services-images/22ftTruckImage.webp";
+import img32ftMxl from "../../public/Services-images/32ftMxlTruckImage.webp";
+import img32ftSxl from "../../public/Services-images/32ftSxlTruckImage.webp";
+import OpenTruckImage17ft from "../../public/Services-images/17ftOpenTruckImage.webp";
+import OpenTruckImage19ft from "../../public/Services-images/19ftOpenTruckImage.webp";
+import OpenTruckImage20ft from "../../public/Services-images/20ftOpenTruckImage.webp";
+import OpenTruckImage22ft from "../../public/Services-images/22ftOpenTruckImage.webp";
 // import loadingImage from "../assets/Services-images/32ft.jpeg";
 import { AnimatePresence, motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";

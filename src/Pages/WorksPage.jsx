@@ -1,8 +1,8 @@
 import React, { useRef, useState, useEffect } from "react";
 import { motion, useAnimation, useInView } from "framer-motion";
-import delivery1 from "../assets/Works-images/workpageimage1.webp";
-import delivery2 from "../assets/Works-images/workpageimage2.webp";
-import delivery3 from "../assets/Works-images/workpageimage3.webp";
+import delivery1 from "../../public/Works-images/workpageimage1.webp";
+import delivery2 from "../../public/Works-images/workpageimage2.webp";
+import delivery3 from "../../public/Works-images/workpageimage3.webp";
 
 const WorksPage = () => {
   const containerRef = useRef(null);
