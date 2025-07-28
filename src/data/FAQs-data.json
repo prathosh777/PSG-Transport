@@ -1,28 +1,28 @@
 [
   {
-    "question": "What container sizes do you offer for transport?",
-    "answer": "We provide three standard container sizes: \n8ft (ideal for small moves and partial loads), \n20ft (perfect for household moves and medium shipments), and \n22ft (our largest option for commercial equipment and full-home relocations)."
+    "question": "What are the dimensions and weight limits for your 32ft containers?",
+    "answer": "We offer two 32ft container options:\n• SXL: 32'L x 9'W x 10'H (9,000kg max)\n• MXL: 32'L x 9'W x 10'H (16,000-25,000kg max)\nBoth feature reinforced floors and high cube options."
   },
-  {
-    "question": "How do I book a container for my shipment?",
-    "answer": "Booking is simple: \n1) Contact us via phone/website for a quote \n2) Confirm container size and pickup date \n3) Sign our service agreement \n4) We'll deliver the empty container to your location for loading. Our team will guide you through each step."
-  },
-  {
-    "question": "What is the maximum weight capacity for your containers?",
-    "answer": "Weight limits vary by container: \n8ft - 3,500 kg, \n20ft - 7,500 kg, \n22ft - 10,000 kg. \nWe provide weight distribution guidance to ensure safe transport. For heavy machinery or specialized cargo, contact us for custom solutions."
-  },
-  {
-    "question": "Do you provide packing materials or loading assistance?",
-    "answer": "Yes! We offer complete packing kits (boxes, bubble wrap, straps) for purchase. For loading, we provide optional forklift services at both origin and destination locations. Our team can also recommend professional loading crews if needed."
-  },
-  
-    {
-  "question": "How are containers secured during transport?",
-  "answer": "We use triple security:\n1) Twist-lock container locking system\n2) GPS-tracked vehicles with 24/7 monitoring\n3) Secure tie-downs for added safety"
 
+  {
+    "question": "How do I prepare heavy machinery for transport in open vehicles?",
+    "answer": "Key preparation steps:\n1) Drain all fluids to 1/4 tank\n2) Secure loose parts\n3) Provide weight distribution specs\n4) Our team will handle specialized tie-downs and permits"
   },
   {
-    "question": "What items are prohibited in your containers?",
-    "answer": "For safety and compliance, we cannot transport: hazardous materials, live animals, perishable foods, firearms, illegal substances, or high-value items (cash, jewelry, artwork)."
+    "question": "What's the lead time for container delivery?",
+    "answer": "Standard delivery within 48 hours for urban areas. For specialized containers (32ft/MXL) or rural locations, please allow 3-5 business days for scheduling."
+  },
+  {
+    "question": "Are your containers weatherproof during transit?",
+    "answer": "All enclosed containers are CSC certified with wind/water tight seals. Open vehicles include optional tarpaulin covers for weather protection."
+  },
+  {
+    "question": "Can I track my shipment in real-time?",
+    "answer": "Yes! All shipments include GPS tracking with 24/7 monitoring. You'll receive a unique tracking link and regular status updates via email/SMS."
+  },
+  {
+    "question": "What certifications do your containers have?",
+    "answer": "Our fleet meets all international standards:\n• CSC safety plates\n• ISO 1496 certification\n• Annual structural integrity inspections"
   }
+  
 ]

@@ -93,7 +93,7 @@ const LandingPage = () => {
             closed: { opacity: 0, x: "100%" },
           }}
           transition={{ type: "spring", stiffness: 100, damping: 20 }}
-          className={`fixed top-0 right-0 h-full w-full bg-[#1a1a1e] md:bg-transparent bg-opacity-95 flex flex-col items-center justify-center gap-8 md:hidden transform ${
+          className={`fixed top-0 right-0 h-full w-full bg-[#1a1a1e]  md:bg-transparent bg-opacity-95 flex flex-col items-center justify-center gap-8 md:hidden transform ${
             isMenuOpen ? 'translate-x-0' : 'translate-x-full'
           } transition-transform duration-300 ease-in-out`}
         >
