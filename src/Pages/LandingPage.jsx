@@ -186,7 +186,7 @@ const LandingPage = () => {
           initial={{ x: 100, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ delay: 0.5, duration: 0.8 }}
-          className="hidden md:block absolute md:-right-20 right-0  transform bottom-10 -translate-y-1/2 w-[50%] h-[95vh] bg-[url('/src/assets/truck-(8).jpg')] bg-cover  bg-left bg-no-repeat rounded-md"
+          className="hidden md:block absolute md:-right-20 right-0  transform bottom-10 -translate-y-1/2 w-[50%] h-[95vh] bg-[url('/src/assets/HeroTruckImage.jpg')] bg-cover  bg-left bg-no-repeat rounded-md"
           style={{
             backgroundPosition: "center center",
             backgroundSize: "cover",
